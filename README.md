@@ -15,4 +15,4 @@
 
 ### 4. Automatic Procedure:
 
-Execute the `install.batch` file.
+Execute the `install.bat` file.
