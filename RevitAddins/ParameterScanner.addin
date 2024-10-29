@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Application">
+       <Name>ParameterScanner</Name>
+       <FullClassName>RevitAddins.Application</FullClassName>
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+       <Assembly>ParameterScanner\RevitAddins.dll</Assembly>
+       <AddInId>29143BA8-A3BC-4D62-A5CB-1772E98492B0</AddInId>
+    <VendorId>BV</VendorId>
+    <VendorDescription>Benedetich Valentino, www.linkedin.com/in/benedetich-v/</VendorDescription>
+ </AddIn>
+</RevitAddIns>
+

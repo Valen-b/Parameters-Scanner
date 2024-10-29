@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|c:\\drive 2\\.12 proyectos visual studio - copy\\revitaddins\\revitaddins\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|solutionrelative:revitaddins\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\revitaddins\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|solutionrelative:revitaddins\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\revitaddins\\views\\view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|solutionrelative:revitaddins\\views\\view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\revitaddins\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|solutionrelative:revitaddins\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\revitaddins\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|solutionrelative:revitaddins\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\revitaddins\\views\\view.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D85F722-7B34-4122-B3E7-D0ED5B68CDD1}|RevitAddins\\RevitAddins.csproj|solutionrelative:revitaddins\\views\\view.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Application.cs",
+              "RelativeDocumentMoniker": "RevitAddins\\Application.cs",
+              "ToolTip": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Application.cs",
+              "RelativeToolTip": "RevitAddins\\Application.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:00:43.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Commands\\Commands.cs",
+              "RelativeDocumentMoniker": "RevitAddins\\Commands\\Commands.cs",
+              "ToolTip": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Commands\\Commands.cs",
+              "RelativeToolTip": "RevitAddins\\Commands\\Commands.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:18:35.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\ViewModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "RevitAddins\\ViewModels\\ViewModel.cs",
+              "ToolTip": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\ViewModels\\ViewModel.cs",
+              "RelativeToolTip": "RevitAddins\\ViewModels\\ViewModel.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:23:35.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View.xaml.cs",
+              "DocumentMoniker": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Views\\View.xaml.cs",
+              "RelativeDocumentMoniker": "RevitAddins\\Views\\View.xaml.cs",
+              "ToolTip": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Views\\View.xaml.cs",
+              "RelativeToolTip": "RevitAddins\\Views\\View.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:16:59.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View.xaml",
+              "DocumentMoniker": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Views\\View.xaml",
+              "RelativeDocumentMoniker": "RevitAddins\\Views\\View.xaml",
+              "ToolTip": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Views\\View.xaml",
+              "RelativeToolTip": "RevitAddins\\Views\\View.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T00:40:09.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Model\\Model.cs",
+              "RelativeDocumentMoniker": "RevitAddins\\Model\\Model.cs",
+              "ToolTip": "C:\\Drive 2\\.12 Proyectos Visual Studio - Copy\\RevitAddins\\RevitAddins\\Model\\Model.cs",
+              "RelativeToolTip": "RevitAddins\\Model\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:01:51.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

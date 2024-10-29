@@ -1,0 +1,36 @@
+﻿<Window x:Class="RevitAddins.Views.AddinView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:RevitAddins"
+        mc:Ignorable="d"
+        Title="Parameter Scanner" 
+        Width="348" Height="180"
+        Topmost="True">
+
+    <Grid>
+        <StackPanel Margin="15">
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                <TextBlock Text="Parameter Name:" VerticalAlignment="Center" />
+                <TextBox Width="200" Margin="10,0"
+                         Text="{Binding ParameterName, UpdateSourceTrigger=PropertyChanged}"
+                         LostFocus="TextBox_LostFocus"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Parameter Value:" VerticalAlignment="Center" />
+                <ComboBox Width="200" Margin="13,0" IsEditable="True" 
+                      ItemsSource="{Binding ParameterValues}" 
+                      Text="{Binding SelectedParameterValue, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                <Button Width="100" Margin="47,0,0,0" Content="Select" Command="{Binding ExecuteCommandSelect}" />
+                <Button Width="100" Margin="20,0,0,0" Content="Isolate in view" Command="{Binding ExecuteCommandisolate}" />
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>
